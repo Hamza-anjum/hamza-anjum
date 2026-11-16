@@ -6,7 +6,7 @@
 ---
 
 ### 👋 About Me
-Welcome! I'm a passionate software engineer with interests in IoT, Machine Learning, and creative coding. This profile showcases my projects, skills, and journey in the tech world.
+Welcome! I'm a passionate biomedical signal processing and ML engineer with interests in IoT, Machine Learning, and creative coding. This profile showcases my projects, skills, and journey in the tech world.
 
 ### 🚀 Top Projects
 - **[BACHLOR-COURSE-FULL](https://github.com/Hamza-anjum/BACHLOR-COURSE-FULL):** A comprehensive repository of course materials.
@@ -23,8 +23,8 @@ Welcome! I'm a passionate software engineer with interests in IoT, Machine Learn
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-anjum&layout=compact&theme=radical)
 
 ### 📬 Contact Me
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- Email: [your-email@example.com](hamza.anjum145@gmail.com)
+- LinkedIn: [Your LinkedIn](hamza-anjum-1b160619a)
 
 ---
 
